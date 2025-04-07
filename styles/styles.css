@@ -1,0 +1,25 @@
+a {
+  color: #88398A;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #b756b9; 
+  text-decoration: underline;
+}
+
+h1 {
+  color: purple;
+}
+
+h2 {
+  color: purple;
+}
+
+h3 {
+  color: purple;
+}
+
+h4 {
+  color: purple;
+}
