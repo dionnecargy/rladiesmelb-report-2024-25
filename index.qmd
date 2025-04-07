@@ -1,7 +1,7 @@
 ---
 title: "R-Ladies Melbourne Inc. Annual Report 2024-25"
 author: "Dionne Argyropoulos"
-date: "07-03-25"
+date: "07-Apr-25"
 toc: false 
 ---
 
@@ -125,7 +125,7 @@ We also finalised our **T-Shirts** and **Mugs**! They look amazing! Thanks Caitl
 
 ## R-Ladies Melbourne and R-Ladies AU 
 
-At the end of 2024, Daidai, Caitlin, Kathleen and I had a meeting with R-Ladies Canberra and R-Ladies Sydney who wanted to learn about how R-Ladies Melbourne operated. Since then, we've opened up our committee meetings to our friends across Australia, have open communication via email, bluesky and slack, and are planning to hold a joint-chapter TidyTuesday event next month! 
+At the end of 2024, Daidai, Caitlin, Kathleen and I met with R-Ladies Canberra and R-Ladies Sydney who wanted to learn about how R-Ladies Melbourne operated. Since then, we've opened up our committee meetings to our friends across Australia, have open communication via email, bluesky and slack, and are planning to hold a joint-chapter TidyTuesday event next month! 
 
 ## Branding Change: R-Ladies to R-Ladies+ 
 
